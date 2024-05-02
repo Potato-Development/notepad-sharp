@@ -1,5 +1,4 @@
 # notepad# (notepad-sharp)
-The next generation of notepad.
 
 ![image](https://github.com/Potato-Development/notepad-sharp/assets/119129834/3f676c7e-e5cc-486b-931f-a389bf7e5ae5)
 
