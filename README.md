@@ -1,4 +1,5 @@
 # notepad# (notepad-sharp)
+![ic_fluent_notepad_24_regular](https://github.com/Potato-Development/notepad-sharp/assets/119129834/77548c21-f02f-4257-bfe8-b7377532ab80)
 
 ![image](https://github.com/Potato-Development/notepad-sharp/assets/119129834/0373a4a3-670d-4ab9-bc87-6c69754f4a64)
 
