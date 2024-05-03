@@ -3,6 +3,17 @@ New version!
 
 ![image](https://github.com/Potato-Development/notepad-sharp/assets/119129834/beb31382-edc5-4b55-a04e-8ce9bb3f4b85)
 
+## Changelog
+
+```
+Changelog:
+ - Added blue themed icons for taskbar applet and window icon
+ - Improved graphics in Windows 11
+ - Faster load time by clearing out the Form.Load() and initializeComponent
+ - Titlebar now shows file name and path of open file and "Untitled" with a new file. These are seperated with a dash from the application name. 
+ - 3D border around the main textbox.
+```
+
 ## Installation
 Check the Wiki (https://github.com/Potato-Development/notepad-sharp/wiki) for more details on installation. Refer to https://git-scm.com/ for the Git docs.
 If you know how to, clone the repo and build the code! Feel free to add feature requests, branch/merge code if you have ideas.
