@@ -12,7 +12,7 @@ If you know how to, clone the repo and build the code! Feel free to add feature 
 4. Once the setup has ended, open the Start Menu and search for ```notepad#```. 
 
 ## Source code
-For quick access (and reference), the newest fersion of ```Form.cs``` will be pasted here.
+For quick access (and reference), the newest version of ```Form.cs``` will be pasted in the code block below.
 
 ```
 using System.Windows.Forms;
