@@ -1,13 +1,16 @@
 # notepad# (notepad-sharp)
 New version!
 
-![image](https://github.com/Potato-Development/notepad-sharp/assets/119129834/beb31382-edc5-4b55-a04e-8ce9bb3f4b85)
+![image](https://github.com/Potato-Development/notepad-sharp/assets/119129834/ee457229-27a9-4e0f-93ec-90a26de4dbb0)
+
+![image](https://github.com/Potato-Development/notepad-sharp/assets/119129834/c0afbebd-ab4a-41ba-8501-b5e04b4d11e5)
+
 
 ## Changelog
 
 ```
 Changelog:
- - Added blue themed icons for taskbar applet and window icon
+ - Added ai generated, metal themed icons for taskbar applet and window icon
  - Improved graphics in Windows 11
  - Faster load time by clearing out the Form.Load() and initializeComponent
  - Titlebar now shows file name and path of open file and "Untitled" with a new file. These are seperated with a dash from the application name. 
