@@ -27,9 +27,14 @@ namespace notepad_sharp
         public Form()
         {
             InitializeComponent();
+            UpdateTitle();
         }
 
-
+        private void UpdateTitle()
+        {
+            string fileName = string.IsNullOrEmpty(currentFilePath) ? "Untitled" : Path.GetFileName(currentFilePath);
+            this.Text = fileName + " - Notepad#";
+        }
 
         //exit
         private void exitXToolStripMenuItem_Click(object sender, EventArgs e)
@@ -57,6 +62,7 @@ namespace notepad_sharp
                 richTextBox.Text = "";
                 currentFilePath = "";
                 isFileModified = false;
+                UpdateTitle();
             }
         }
 
@@ -71,6 +77,7 @@ namespace notepad_sharp
                 richTextBox.Text = "";
                 currentFilePath = "";
                 isFileModified = false;
+                UpdateTitle();
             }
         }
 
@@ -106,6 +113,7 @@ namespace notepad_sharp
                 richTextBox.Text = File.ReadAllText(openFileDialog.FileName);
                 currentFilePath = openFileDialog.FileName;
                 isFileModified = false;
+                UpdateTitle();
             }
         }
 
@@ -153,6 +161,7 @@ namespace notepad_sharp
             File.WriteAllText(filePath, richTextBox.Text);
             currentFilePath = filePath;
             isFileModified = false;
+            UpdateTitle();
         }
 
 
