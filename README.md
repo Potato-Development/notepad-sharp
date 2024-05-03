@@ -1,6 +1,7 @@
 # notepad# (notepad-sharp)
+New version!
 
-![image](https://github.com/Potato-Development/notepad-sharp/assets/119129834/0373a4a3-670d-4ab9-bc87-6c69754f4a64)
+![image](https://github.com/Potato-Development/notepad-sharp/assets/119129834/beb31382-edc5-4b55-a04e-8ce9bb3f4b85)
 
 ## Installation
 Check the Wiki (https://github.com/Potato-Development/notepad-sharp/wiki) for more details on installation. Refer to https://git-scm.com/ for the Git docs.
