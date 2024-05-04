@@ -1,6 +1,6 @@
 # notepad# (notepad-sharp)
 New version!
-
+N.B IN MOST CASES, THE PREVIOUS VERSION OF THE APPLICATION WILL HAVE TO BE UNINSTALLED THROUGH THE CONTROL PANEL TO INSTALL A NEW VERION
 ![image](https://github.com/Potato-Development/notepad-sharp/assets/119129834/ee457229-27a9-4e0f-93ec-90a26de4dbb0)
 
 ![image](https://github.com/Potato-Development/notepad-sharp/assets/119129834/c0afbebd-ab4a-41ba-8501-b5e04b4d11e5)
