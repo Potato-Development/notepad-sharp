@@ -1,7 +1,8 @@
 # notepad# (notepad-sharp)
 New version!
 
-N.B IN MOST CASES, THE PREVIOUS VERSION OF THE APPLICATION WILL HAVE TO BE UNINSTALLED THROUGH THE CONTROL PANEL TO INSTALL A NEW VERION
+![GitHub commit activity](https://img.shields.io/github/commit-activity/t/Potato-Development/notepad-sharp)
+![GitHub last commit](https://img.shields.io/github/last-commit/Potato-Development/notepad-sharp)
 
 ![image](https://github.com/Potato-Development/notepad-sharp/assets/119129834/ee457229-27a9-4e0f-93ec-90a26de4dbb0)
 
