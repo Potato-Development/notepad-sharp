@@ -12,13 +12,14 @@ New version!
 
 ```
 Changelog:
- - Added ai generated, metal themed icons for taskbar applet and window icon![image](https://github.com/Potato-Development/notepad-sharp/assets/119129834/c0afbebd-ab4a-41ba-8501-b5e04b4d11e5)
+ - Added ai generated, metal themed icons for taskbar applet and window icon!
 
  - Improved graphics in Windows 11
  - Faster load time by clearing out the Form.Load() and initializeComponent
  - Titlebar now shows file name and path of open file and "Untitled" with a new file. These are seperated with a dash from the application name. 
  - 3D border around the main textbox.
 ```
+[image](https://github.com/Potato-Development/notepad-sharp/assets/119129834/c0afbebd-ab4a-41ba-8501-b5e04b4d11e5)
 
 ## Installation
 Check the Wiki (https://github.com/Potato-Development/notepad-sharp/wiki) for more details on installation. Refer to https://git-scm.com/ for the Git docs.
