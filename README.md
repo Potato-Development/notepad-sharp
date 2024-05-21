@@ -13,7 +13,6 @@ New version!
 ```
 Changelog:
  - Added ai generated, metal themed icons for taskbar applet and window icon!
-
  - Improved graphics in Windows 11
  - Faster load time by clearing out the Form.Load() and initializeComponent
  - Titlebar now shows file name and path of open file and "Untitled" with a new file. These are seperated with a dash from the application name. 
