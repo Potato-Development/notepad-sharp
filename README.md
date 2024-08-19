@@ -4,13 +4,6 @@ New version!
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/Potato-Development/notepad-sharp)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Potato-Development/notepad-sharp)
 
-
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
-
-![image](https://github.com/Potato-Development/notepad-sharp/assets/119129834/ee457229-27a9-4e0f-93ec-90a26de4dbb0)
-
 ## Changelog
 
 ```
